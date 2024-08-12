@@ -22,5 +22,5 @@ The Number Guessing Game is a Java console application where the player attempts
 
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+  
+   git clone [https://github.com/your-username/number-guessing-game.git](https://github.com/Granny14/Number-guessing-game.git)
